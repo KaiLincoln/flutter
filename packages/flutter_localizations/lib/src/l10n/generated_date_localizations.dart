@@ -10662,7 +10662,8 @@ const Map<String, dynamic> dateSymbols = <String, dynamic>{
       r'''ไตรมาส 3''',
       r'''ไตรมาส 4'''
     ],
-    'AMPMS': <dynamic>[r'''ก่อนเที่ยง''', r'''หลังเที่ยง'''],
+//    'AMPMS': <dynamic>[r'''ก่อนเที่ยง''', r'''หลังเที่ยง'''],
+    'AMPMS': <dynamic>[r'''AM''', r'''PM'''],
     'DATEFORMATS': <dynamic>[
       r'''EEEEที่ d MMMM G y''',
       r'''d MMMM G y''',
@@ -11537,7 +11538,8 @@ const Map<String, dynamic> dateSymbols = <String, dynamic>{
       r'''Quý 3''',
       r'''Quý 4'''
     ],
-    'AMPMS': <dynamic>[r'''SA''', r'''CH'''],
+//    'AMPMS': <dynamic>[r'''SA''', r'''CH'''],
+    'AMPMS': <dynamic>[r'''AM''', r'''PM'''],
     'DATEFORMATS': <dynamic>[
       r'''EEEE, d MMMM, y''',
       r'''d MMMM, y''',
